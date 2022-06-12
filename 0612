@@ -1,11 +1,11 @@
-### 문서속성 
+[문서속성] 
 만든 날짜랑 수정한 날짜가 다른데, 만든 날짜가 더 최근
 
-### pdf 외형
+[pdf 외형]
 11-16페이지를 보면 왼쪽 공백이 생김
 별 의미가 없는걸까?
 
-### pdf 구조
+[pdf 구조]
 pdf 구조 내에 수정된 기록이 있을까봐 살펴보았는데
 PDF Header - Body - Cross Reference Table - Trailer 
 
